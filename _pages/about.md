@@ -1,7 +1,6 @@
 ---
 layout:page
-title: Ahout
+title:About
 ---
+
 Hello World
-
-
