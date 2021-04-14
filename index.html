@@ -13,6 +13,15 @@ layout: default
     <p>I use this website to document projects I worked on</p>
 
 </section>
+<section class="posts">
+    <h3>Pages</h3>
+    <ul>
+        {% for page in site.pages%}
+        <li>
+            <a href="{{ site.baseurl }}{{ page.url }}">{{ post page.title }}</a>
+        {% endfor %}
+    </ul>
+</section>
 
 <section class="posts">
     <h3>BLOG</h3>
