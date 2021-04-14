@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Helloworld
 description: Helloworld 
 summary: Setting up a new personal website 

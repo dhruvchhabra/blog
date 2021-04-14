@@ -1,6 +1,8 @@
 ---
-layout:page
-title:About
+layout: page
+title: Helloworld
+description: Helloworld 
+summary: Setting up a new personal website 
+tags: [helloworld]
 ---
-
-Hello World
+ello World
