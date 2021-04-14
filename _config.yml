@@ -1,5 +1,5 @@
 site: Asko
-url: "https://dhruvchhabra.github.io/test"
+url: "https://dhruvchhabra.github.io/blog"
 title: Asko
 description: Simple and minimalistic jekyll blogging theme.
 googlewebfonts: Fira+Code:wght@400;500;700
@@ -15,7 +15,7 @@ author:
   url: #yoururl
 permalink: pretty
 
-baseurl: "https://dhruvchhabra.github.io/test"
+baseurl: "https://dhruvchhabra.github.io/blog"
 
 highlighter: rouge
 
